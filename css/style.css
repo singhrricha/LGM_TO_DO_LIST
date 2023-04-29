@@ -1,0 +1,25 @@
+.checked {
+  background: #df101e;
+  color: #fff;
+  text-decoration: line-through;
+}
+
+.close,.pencil:hover{
+	color: rgb(178, 21, 193);
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.close{
+	font-size: 30px;
+}
+.pencil{
+	font-size: 20px;
+}
+.collapse1{
+	overflow-y: scroll;
+	height: 200px;
+}
+
+.pencil{
+	margin-right: 10px;
+}
+
